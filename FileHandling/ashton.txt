@@ -1,0 +1,3 @@
+ Hillo
+This is the second line
+This is the new line i appended to the text file
